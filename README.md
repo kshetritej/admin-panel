@@ -1,2 +1,5 @@
 # admin-panel
-Admin Dashboard
+
+#API's
+* Fonts : Google Fonts
+* Icons : IconScout
